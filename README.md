@@ -38,13 +38,13 @@ If any failures occur, Twitter API will alert of the error with brief descritpio
 
 -
 
-![alt text](screenshots/3.png "Home Page"
+![alt text](screenshots/3.png "Twitter Feed 2"
 
 - 
 
-![alt text](screenshots/4.png "Home Page")
+![alt text](screenshots/4.png "Twitter Feed 3")
 
 - 
 
-![alt text](screenshots/5_Actual Twitter Feed.png "Home Page")
+![alt text](screenshots/5_Actual Twitter Feed.png "Actual Feed")
 
