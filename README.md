@@ -52,7 +52,4 @@ If any failures occur, Twitter API will alert of the error with brief descritpio
 
 ![alt text](screenshots/6.png "Actual Feed")
 
-- 
-
-![alt text](screenshots/7.png "DM")
 
